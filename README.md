@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 #### 🌱 I'm currently learning more about
 
 - [React](https://reactjs.org)
+- [Angular](https://angular.io)
 - [TypeScript](https://www.typescriptlang.org)
 - [NextJS](https://nextjs.org)
 - [ThreeJS](https://threejs.org)
