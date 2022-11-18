@@ -6,7 +6,6 @@
 I love the process of learning about new web and software technologies, and finding cool things to build with them.
 </p>
 
-<img align="right" src="/Image.png" width=250>
 
 <!--
 **j-dsmith/j-dsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
