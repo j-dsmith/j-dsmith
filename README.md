@@ -1,6 +1,6 @@
 ### Hi, I'm Jamey 👋🏾
 
-## I'm a Full-Stack Web Developer 💻 and Aspiring UI/UX Designer 🎨.
+## I'm a Full-Stack Web Developer 💻 
 
 <p align="left">
 I love the process of learning about new web and software technologies, and finding cool things to build with them.
